@@ -2,7 +2,7 @@
 hide-toc: false
 ---
 
-# stats
+# nanstats
 
 ```{include} ../README.md
 :start-line: 1

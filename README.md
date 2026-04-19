@@ -1,4 +1,4 @@
-# stats
+# nanstats
 
 NaN-aware statistical helpers for MATLAB.
 
@@ -30,7 +30,7 @@ See `help <function>` at the MATLAB prompt for the full docstring of each.
 ## Install
 
 ```matlab
-addpath('/path/to/stats');
+addpath('/path/to/nanstats');
 ```
 
 ## Dependencies
