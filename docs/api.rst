@@ -1,7 +1,8 @@
 API Reference
 =============
 
-.. mat:module:: .
+.. toctree::
+   :maxdepth: 1
 
-.. mat:autofunction:: nanpow2db
-.. mat:autofunction:: nanzscore
+   api/nanpow2db
+   api/nanzscore
