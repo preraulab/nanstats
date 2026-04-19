@@ -21,7 +21,6 @@ function [zscored, mu, sigma] = nanzscore(data, varargin)
 %   See also: zscore, isnan
 %
 %   ∿∿∿  Prerau Laboratory MATLAB Codebase · sleepEEG.org  ∿∿∿
-%        Source: https://github.com/preraulab/labcode_main
 
 inds = ~isnan(data);
 zscored = nan(size(data));

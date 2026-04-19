@@ -11,7 +11,6 @@ function ydB = nanpow2db(y)
 % EDITED BY MJP 2/7/2020
 %
 %   ∿∿∿  Prerau Laboratory MATLAB Codebase · sleepEEG.org  ∿∿∿
-%        Source: https://github.com/preraulab/labcode_main
 
 %ydB = 10*log10(y);
 %ydB = db(y,'power');
